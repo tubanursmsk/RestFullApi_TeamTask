@@ -131,19 +131,8 @@ PATCH /tasks/:id/status
 ## 📘 Swagger Dokümantasyonu
 Uygulamayı başlattıktan sonra aşağıdaki adrese giderek Swagger arayüzünden API uç noktalarını inceleyebilirsin:
 ```bash
-http://localhost:40000/api-docs
+http://localhost:4000/api-docs
 ```
-
----
-
-
-## 👥 Geliştirici Ekip
-
-- **Ahmet Demircan**  
-- **Mümine Muroğlu**
-- **Serhat Ezen**
-- **Tuba Nur Şimşek**  
-
 
 ---
 
@@ -151,7 +140,13 @@ http://localhost:40000/api-docs
 🧾 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
-Tüm hakları Ahmet Demircan, Mümine Muroğlu, Tuba Nur Şimşek, Serhat Ezen ekibine aittir.
+Tüm hakları Tuba Nur Şimşek ekibine aittir.
 © 2025 — TeamTask
 
+---
 
+
+
+🏷 Etiketler:
+`Node.js` `JS` `TypeScript` `HTML`  `CSS` `news` `swagger` `TeamTask`  
+`Project Management` `Katmanlı Mimari` `RBAC` `RestApi` 
