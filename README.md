@@ -137,14 +137,11 @@ http://localhost:4000/api-docs
 ---
 
 
-🧾 Lisans
-
+🧾 MIT Lisans
 Bu proje eğitim amaçlı geliştirilmiştir.
-Tüm hakları Tuba Nur Şimşek ekibine aittir.
 © 2025 — TeamTask
 
 ---
-
 
 
 🏷 Etiketler:
