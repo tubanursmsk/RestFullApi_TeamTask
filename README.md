@@ -138,7 +138,9 @@ http://localhost:4000/api-docs
 
 
 🧾 MIT Lisans
+
 Bu proje eğitim amaçlı geliştirilmiştir.
+
 © 2025 — TeamTask
 
 ---
